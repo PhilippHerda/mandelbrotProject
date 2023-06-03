@@ -1,0 +1,20 @@
+Index: src/mandelbrot/MandelbrotSet.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package mandelbrot;\n\npublic class MandelbrotSet {\n\n    public static void calculateMandelbrotSet(float xVal, float yVal){\n        \n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/mandelbrot/MandelbrotSet.java b/src/mandelbrot/MandelbrotSet.java
+--- a/src/mandelbrot/MandelbrotSet.java	(revision c273a4b1658bba5d6e29de8f662bc42d0b7d638f)
++++ b/src/mandelbrot/MandelbrotSet.java	(date 1622899361051)
+@@ -2,7 +2,8 @@
+ 
+ public class MandelbrotSet {
+ 
++
+     public static void calculateMandelbrotSet(float xVal, float yVal){
+-        
++
+     }
+ }
